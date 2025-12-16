@@ -1,5 +1,5 @@
-# Gemini-高级照片数
-Gemini高级照片树
+# Gemini-高级照片🌲
+Gemini高级照片树，支持手势控制，触屏控制，鼠标控制
 
 ## output.py用于将照片文件夹中的所有照片写入到json文件中
 
