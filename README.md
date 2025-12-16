@@ -6,3 +6,5 @@ output.py用于将照片文件夹中的所有照片写入到json文件中
 index.html是网页可视化
 
 具体的使用效果可见视频
+
+https://github.com/user-attachments/assets/ffddc803-bb8e-4374-ba39-69548129b3f8
